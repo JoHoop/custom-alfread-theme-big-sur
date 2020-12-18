@@ -31,7 +31,7 @@
       "paddingHorizontal" : 7,
       "spacing" : 11,
       "text" : {
-        "size" : 28,
+        "size" : 26,
         "colorSelected" : "#FFFFFFFF",
         "font" : "System Light",
         "color" : "#FFFFFFFF"
