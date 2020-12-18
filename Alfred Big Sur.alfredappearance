@@ -47,7 +47,7 @@
       "borderPadding" : 0,
       "borderColor" : "#3A2D2E7F",
       "blur" : 0,
-      "roundness" : 15,
+      "roundness" : 10,
       "paddingVertical" : 11
     },
     "credit" : "Jo",
