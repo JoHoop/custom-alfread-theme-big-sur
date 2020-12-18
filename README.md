@@ -2,4 +2,4 @@
 
 
 
-![Screenshot](/Alfred Big Sur.png)
+![Screenshot](/Alfred%20Big%20Sur.png)
